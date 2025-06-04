@@ -1,0 +1,42 @@
+@use "tailwindcss";
+@use "./fonts";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@config '../../tailwind.config.ts';
+
+
+body {
+  overflow-x: hidden;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.why-span {
+  background: #8E96D7;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+  background-clip: text;
+}
+
+.why-span-hover {
+  background: radial-gradient(206.7% 52.43% at 44.86% 43.27%, #24D9BE 0%, #8E96D7 94.23%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+.pin-spacer{
+}

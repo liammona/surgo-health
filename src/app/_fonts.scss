@@ -1,0 +1,308 @@
+/* --- ClashDisplay Font Family --- */
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Extralight.woff2') format('woff2'),
+       url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Extralight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Light.woff2') format('woff2'),
+       url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Regular.woff2') format('woff2'),
+       url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Medium.woff2') format('woff2'),
+       url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Semibold.woff2') format('woff2'),
+       url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Bold.woff2') format('woff2'),
+       url('/fonts/ClashDisplay_Complete/ClashDisplay_Complete/Fonts/WEB/fonts/ClashDisplay-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- artford Font Family --- */
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_extralight_macroman/artford-extralight-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_extralight_macroman/artford-extralight-webfont.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_extralightitalic_macroman/artford-extralightitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_extralightitalic_macroman/artford-extralightitalic-webfont.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_light_macroman/artford-light-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_light_macroman/artford-light-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_lightitalic_macroman/artford-lightitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_lightitalic_macroman/artford-lightitalic-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_book_macroman/artford-book-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_book_macroman/artford-book-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_bookitalic_macroman/artford-bookitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_bookitalic_macroman/artford-bookitalic-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_regular_macroman/artford-regular-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_regular_macroman/artford-regular-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_italic_macroman/artford-regularitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_italic_macroman/artford-regularitalic-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_bold_macroman/artford-bold-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_bold_macroman/artford-bold-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_bolditalic_macroman/artford-bolditalic-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_bolditalic_macroman/artford-bolditalic-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_ultrabold_macroman/artford-ultrabold-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_ultrabold_macroman/artford-ultrabold-webfont.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'artford';
+  src: url('/fonts/Artford/artford_ultrabolditalic_macroman/artford-ultrabolditalic-webfont.woff2') format('woff2'),
+       url('/fonts/Artford/artford_ultrabolditalic_macroman/artford-ultrabolditalic-webfont.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_hairline_macroman/alfabet-hairline-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_hairline_macroman/alfabet-hairline-webfont.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_hairlineitalic_macroman/alfabet-hairlineitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_hairlineitalic_macroman/alfabet-hairlineitalic-webfont.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_thin_macroman/alfabet-thin-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_thin_macroman/alfabet-thin-webfont.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_thinitalic_macroman/alfabet-thinitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_thinitalic_macroman/alfabet-thinitalic-webfont.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_extralight_macroman/alfabet-extralight-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_extralight_macroman/alfabet-extralight-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_extralightitalic_macroman/alfabet-extralightitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_extralightitalic_macroman/alfabet-extralightitalic-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_light_macroman/alfabet-light-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_light_macroman/alfabet-light-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_lightitalic_macroman/alfabet-lightitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_lightitalic_macroman/alfabet-lightitalic-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_regular_macroman/alfabet-regular-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_regular_macroman/alfabet-regular-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_italic_macroman/alfabet-regularitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_italic_macroman/alfabet-regularitalic-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_medium_macroman/alfabet-medium-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_medium_macroman/alfabet-medium-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_mediumitalic_macroman/alfabet-mediumitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_mediumitalic_macroman/alfabet-mediumitalic-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_semibold_macroman/alfabet-semibold-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_semibold_macroman/alfabet-semibold-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_semibolditalic_macroman/alfabet-semibolditalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_semibolditalic_macroman/alfabet-semibolditalic-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_bold_macroman/alfabet-bold-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_bold_macroman/alfabet-bold-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_bolditalic_macroman/alfabet-bolditalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_bolditalic_macroman/alfabet-bolditalic-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_extrabold_macroman/alfabet-extrabold-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_extrabold_macroman/alfabet-extrabold-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_extrabolditalic_macroman/alfabet-extrabolditalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_extrabolditalic_macroman/alfabet-extrabolditalic-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_black_macroman/alfabet-black-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_black_macroman/alfabet-black-webfont.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Alfabet';
+  src: url('/fonts/Alfabet/alfabet_blackitalic_macroman/alfabet-blackitalic-webfont.woff2') format('woff2'),
+       url('/fonts/Alfabet/alfabet_blackitalic_macroman/alfabet-blackitalic-webfont.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
