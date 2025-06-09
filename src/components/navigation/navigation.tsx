@@ -7,16 +7,16 @@ import { motion } from "framer-motion";
 
 const navLinks = [
     {
-        label: "Solutions",
-        href: "/solutions",
+        label: "About Us",
+        href: "/about",
         dropdown: [
             { label: "Solution 1", href: "/solution1" },
             { label: "Solution 2", href: "/solution2" },
         ],
     },
     {
-        label: "About Us",
-        href: "/about",
+        label: "News & Events",
+        href: "/news",
         dropdown: [
             { label: "Our Story", href: "/our-story" },
             { label: "Leadership", href: "/leadership" },
